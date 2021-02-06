@@ -32,5 +32,5 @@ def mergeLists(list1, list2):
  
  
 #Main Program
-merged = mergeLists([2, 3, 6, 8], [1, 3, 8, 10])
+merged = mergeLists([2,3,6,8], [1,3,8,10])
 print(merged)
